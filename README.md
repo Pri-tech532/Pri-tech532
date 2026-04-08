@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Pritam Das
 
-<!--
-**Pri-tech532/Pri-tech532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Analyst / Data Scientist | Transitioning from QA**  
+📊 Skilled in **Excel Dashboards | Learning Python for Data Science**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-das-7ab4251b2/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/pritamdas57/)
+
+---
+
+## 💡 About Me
+
+- 🔄 Transitioning from **QA → Data Analytics / Data Science**
+- 📊 Built **Excel dashboards using Pivot Tables & formulas**
+- 📘 Currently learning **Python (logic building, problem-solving)**
+- 🎯 Next: **NumPy → Pandas → SQL → Data Visualization (Matplotlib, Seaborn) → Power BI → Machine Learning**
+
+---
+
+## 🛠️ Skills
+
+### ✅ Current Skills
+- Excel (Dashboards, Pivot Tables, Functions)
+- Data Understanding & Analysis  
+- Problem Solving (QA mindset)
+
+### ⏳ Learning
+- Python  
+- SQL (coming next)
+
+### 🔜 Upcoming
+- Power BI  
+- Machine Learning  
+
+---
+
+## 📂 Projects (In Progress)
+
+- 📊 Excel Dashboard Projects
+- 💻 Python Practice Programs
+- 📁 Future: Data Analysis Projects using real datasets
+
+---
+
+## 🎯 Current Focus
+
+- 📌 Strengthening Python fundamentals  
+- 📌 Preparing for Data Analyst/Scientist roles  
+- 📌 Building first GitHub projects  
+
+---
+
+## 📈 GitHub Journey
+
+> “From Excel dashboards to Data Science — building step by step 🚀”
