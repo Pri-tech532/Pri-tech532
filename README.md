@@ -54,6 +54,6 @@
 
 ---
 
-## 📈 GitHub Journey
+## 🔥 Journey Statement
 
-> “From Excel dashboards to Data Science — building step by step 🚀”
+> Building skills step by step towards Data Analytics and Data Science 🚀 
